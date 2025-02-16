@@ -1,4 +1,4 @@
-include $(TOPDIR)/rules.mk
+	include $(TOPDIR)/rules.mk
 
 PKG_NAME:=bettercap
 PKG_VERSION:=2.28
